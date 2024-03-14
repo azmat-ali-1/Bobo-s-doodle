@@ -1,0 +1,90 @@
+html{
+  background-color: #EAE5DF;
+ 
+}
+*{
+    color: #9567EB;
+}
+  .logo{
+    width: 100rem;
+    max-width: 100%;
+    margin-top: -50px;
+  }
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.head_container{
+    text-align: center;
+    margin-top: -50px;
+}
+.head_line{
+    margin-bottom: 0;
+}
+.btn_order{
+    width: 90%;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 10px;
+    color: white;
+    background-color: #9567EB;
+    border: transparent;
+}
+.tag_line{
+    margin-top: 0;
+}
+.logo_container{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+.logo_social{
+    width: 18px;
+}
+.about_section{
+    margin: 10px;
+}
+.about_section h3,.about_section p{
+    margin: 2px;
+}
+.contact_section{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.contact_section input,.contact_section textarea{
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border-color: transparent;
+}
+.submit_btn{
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+    background-color: #9567EB;
+    border: transparent;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 1px solid black;
+    padding: 10px;
+}
+footer h3{
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.footer_img img{
+    width: 100px;
+    height: 100%;
+}
+.footer_img{
+    
+    height: 100%;
+}
+.footer_text{
+    margin: 0;
+    color: black;
+}
