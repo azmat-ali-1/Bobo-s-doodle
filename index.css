@@ -3,7 +3,7 @@ html{
  
 }
 *{
-    color: #9567EB;
+    color: #FB6CAE;
 }
   .logo{
     width: 100rem;
@@ -28,7 +28,7 @@ html{
     padding: 10px;
     margin-top: 10px;
     color: white;
-    background-color: #9567EB;
+    background-color: #FB6CAE;
     border: transparent;
 }
 .tag_line{
@@ -62,7 +62,7 @@ html{
     border-radius: 15px;
     padding: 10px;
     color: white;
-    background-color: #9567EB;
+    background-color: #FB6CAE;
     border: transparent;
 }
 footer{
